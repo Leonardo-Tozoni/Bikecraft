@@ -1,2 +1,2 @@
 # Bikecraft
-  Projeto curso de Web Design Comopleto - Origamid
+  Projeto curso de Web Design Completo - Origamid
